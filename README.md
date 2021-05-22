@@ -3,11 +3,11 @@
 
 
 
-**📝 We are preparing the dataset, it will available soon...**
+**📝 We are preparing the dataset, it will be available soon...**
 
 ---
 
-This repository contain annotated data of car parts avaliable for object detection and semantic segmentaion tasks. Appear in paper, [Evaluation of deep learning algorithms for semantic segmentation of car parts](https://link.springer.com/article/10.1007/s40747-021-00397-8)
+This repository contains annotated data of car parts available for object detection and semantic segmentation tasks, appeared in the paper "[Evaluation of deep learning algorithms for semantic segmentation of car parts](https://link.springer.com/article/10.1007/s40747-021-00397-8)"
 
 ## Citation
 If this work is helpful in your research, please cite and star:
