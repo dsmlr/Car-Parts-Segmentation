@@ -20,7 +20,7 @@ This repository contains annotated data of car parts available for object detect
 
 ![Instance per category](doc_images/instance_per_cats_v2.png)
 
-## How to read this data
+## How to use this data
 - [Example (Python)](Example.ipynb)
 
 ## Citation
