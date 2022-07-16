@@ -18,7 +18,7 @@ This repository contains annotated data of car parts available for object detect
 
 `back_bumper`, `back_glass`, `back_left_door`, `back_left_light`, `back_right_door`, `back_right_light`, `front_bumper`, `front_glass`, `front_left_door`, `front_left_light`, `front_right_door`, `front_right_light`, `hood`, `left_mirror`, `right_mirror`, `tailgate`, `trunk` (of trucks and SUVs), and `wheel` (wheel and tire).
 
-![Instance per category](doc_images/instance_per_cats.webp)
+![Instance per category](doc_images/instance_per_cats_v2.png)
 
 ## How to read this data
 - [Example (Python)](Example.ipynb)
