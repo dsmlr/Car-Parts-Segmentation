@@ -3,7 +3,7 @@
 
 ---
 
-> 🎉**Release V.2** - We update the annotation of this data set for more converage and consistencies.
+> 🎉**Release V.2** - We update the annotation of this data set for more coverage and consistencies.
 
 This repository contains annotated data of car parts available for object detection and semantic segmentation tasks, appeared in the paper "[Evaluation of deep learning algorithms for semantic segmentation of car parts](https://link.springer.com/article/10.1007/s40747-021-00397-8)"
 
